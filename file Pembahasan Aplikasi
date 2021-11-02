@@ -1,0 +1,28 @@
+
+   1. Client = kelompok 9
+   Developers = kelompok 7 
+   Pembuatan Aplikasi Pemesanan Laundry
+   
+   - Menu Login
+   - Dashboard
+   - Profil Admin
+   - Daftar data customer
+   - Laporan
+   - Catatan keuangan
+   - Logout
+Client = kelompok 7
+   Developers = kelompok 9
+   Aplikasi Pemesanan Makanan dan Minuman di Suatu Restoran
+   *Bagian User
+   -login
+   -menu makanan/minuman
+   -pesan 
+   -edit pesanan
+   -hapus pesanan
+    *Bagian admin
+    -login admin
+    -dasbord 
+    -data menu 
+    -data pemesanan
+    -Pembayaran
+    -logout
