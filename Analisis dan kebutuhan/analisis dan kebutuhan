@@ -1,0 +1,22 @@
+1. Rumusan Masalah
+Saat ini, restoran terus berupaya untukmeningkatkan kualitas dengan memberikanpelayanan terbaiknya kepada para pelanggan serta peningkatan dalam hal perolehan pendapatan, salah
+satunya dalam hal pemanfaatan teknologi informasiuntuk menunjang bisnis restoran. Hal yang mendorong upaya tersebut yaitu media promosi
+yang digunakan dengan penyebaran brosur atau memasang spanduk masih terbatas pada tempat dan tentunya belum dapat memaksimalkan jumlahpendapatan restoran,
+sehingga perlu dilakukan promosi secara digital. Selain itu, proses pemesanan yang dilakukan melalui sambungan telepon terkadang ada kesalahpahaman antara
+pelanggan dan karyawan restoran.
+
+2.Tujuan Peneliatian
+a. Untuk mengimplementasikan RAD model terhadap sistem informasi pemesanan makanan dan minuman di restoraan yang bernama Mantaf Resto pada aplikasi berbasis android.
+b. merancang sistem informasi pemesanan makanan yang dapat membantu restoran dalam melakukan promosi secara digital sehingga restoran Mantaf Resto
+Indonesia akan lebih dikenal masyarakat. Selain daripada itu, sistem diharapkan dapat meringankan tugas dan menyingkat waktu dalam hal
+pengolahan data menu dan data pemesanan.
+
+3. Kebutuhan System
+speksifikasi yang dibutuhkan komputer untuk menjalankan aplikasi antara lain :
+- Prosesor : Intel Core i3 gen 4th
+- VGA      : Intel HD Graphics 4400
+- HDD      : 250gb
+- Ram      : 2gb
+
+software yang digunakan antara lain :
+1. 
