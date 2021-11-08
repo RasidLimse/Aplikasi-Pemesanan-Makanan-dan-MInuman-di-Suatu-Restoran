@@ -1,28 +1,56 @@
 
-   1. Client = kelompok 9
-   Developers = kelompok 7 
-   Pembuatan Aplikasi Pemesanan Laundry
-   
-   - Menu Login
-   - Dashboard
-   - Profil Admin
-   - Daftar data customer
-   - Laporan
-   - Catatan keuangan
-   - Logout
+Client = kelompok 9
+ Developers = kelompok 7
+ Pembuatan Aplikasi Laundry Berbasis Website
+
+
+Fitur User
+1. Daftar 
+2. Login
+3. Melihat informasi biaya laundry dan ongkir
+4. Melihat status laundry
+5. Memesan laundry
+6. Mengetahui estimasi waktu selesai laundry
+7. Konfirmasi pemesanan
+8. Melakukan pembayaran
+9. Logout
+
+Fitur admin
+1. Daftar
+2. Login
+3. input data edit dan tambah (biaya ongkir,biaya cuci dan jadwal buka)
+4. Input data laundry
+5. Melihat data customer
+6. Melihat pesanan dari customer
+7. Melihat status pembayaran customer
+8. Membuat laporan data customer
+9. Membuat laporan catatan keuangan
+10.Logout
+
 Client = kelompok 7
    Developers = kelompok 9
    Aplikasi Pemesanan Makanan dan Minuman di Suatu Restoran
-   *Bagian User
-   -login
-   -menu makanan/minuman
-   -pesan 
-   -edit pesanan
-   -hapus pesanan
-    *Bagian admin
-    -login admin
-    -dasbord 
-    -data menu 
-    -data pemesanan
-    -Pembayaran
-    -logout
+ Fitur user :
+1. Memilih menu makanan/minuman
+2. Hapus menu
+3. Tambah menu
+4. Kirim pesanan
+
+Fitur Admin :
+1. Login 
+2. Data meja
+3. Data menu restoran
+4. Simpan data 
+5. Edit data
+5. Hapus data
+6. Laporan penjualan
+7. Logout
+
+Fitur Kasir :
+1. Menu kasir
+2. Pesanan masuk 
+3. Pesanan yabg sudah disajikan
+4.pembayaran
+5. Input list data / nomor meja
+6. Input uang pembayaran dari pelanggan
+7.konfirmasi pembayaran  
